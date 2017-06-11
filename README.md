@@ -19,3 +19,6 @@ cd to Virtual_Creator<br>
 qmake<br>
 make<br>
 ./Virtual_Creator<br>
+
+Donate BTC
+1Az4UC2sKSSGydig8pQakX1QnZYTzP8yUy
